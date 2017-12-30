@@ -1,4 +1,4 @@
-# Flinkster-Data-Analysis
+# Db-Data-Analysis
 
 We are a team of two persons working on flinkster car seharing data from Deutschebahn.
 
